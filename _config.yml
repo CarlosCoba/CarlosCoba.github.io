@@ -61,6 +61,7 @@ author:
   name   : "Carlos Lopez Coba"
   avatar : "/assets/images/me.jpg"
   bio    : "PhD in Astrophysics"
+  location	: "Taipei, Taiwan"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

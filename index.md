@@ -8,4 +8,6 @@ author_profile: true
 
 
 I am a **postdoc fellow** currently working at ASIAA in Taipei Taiwan.
-My research interest are focused on the dynamical properties of galaxies.
+My research interest are focused on the dynamical properties of galaxies,
+through observations of the warm and cold phases of the interestellar medium.
+I am expert in the kinematic modeling of galaxies.
