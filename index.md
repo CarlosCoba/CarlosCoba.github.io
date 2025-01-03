@@ -2,8 +2,19 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# layout: single
+# author_profile: true
+title: "Carlos' page"
 layout: splash
-author_profile: true
+permalink: /splash-page/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/horizontal.jpg
+  actions:
+    - label: "Download"
+      url: "#test-link"
+excerpt: "Hi! I am Carlos. Welcome to my personal page. I created this site to post my resume."
 ---
 
 
