@@ -9,5 +9,5 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Hi! I am Carlos. Welcome to my personal page. I created this site to post my re"
+excerpt: "Hi! I am Carlos. Welcome to my personal page. I created this site to post my resume."
 ---
