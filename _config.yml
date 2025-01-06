@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-scholar
 
 author:
   name   : "Carlos Lopez Coba"
@@ -115,32 +114,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-
-
-
-scholar:
-  style: apa
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  group_by: none
-  group_order: ascending
-
-  source: ./_bibliography
-  bibliography: first.bib
-  bibliography_template: ""
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: false
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
