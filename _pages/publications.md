@@ -50,3 +50,5 @@ López-Cobá, C., S. F. Sánchez, A. V. Moiseev, D. V. Oparin, T. Bitsakis,
 I. Cruz-González, C. Morisset, et al. 2017b. [<span class="nocase">Star
 formation driven galactic winds in UGC
 10043</span>](https://doi.org/10.1093/mnras/stw3355). 467: 4951–4964.
+
+Publications in coauthorship:
