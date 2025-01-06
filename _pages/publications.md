@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Following are found my publications:
+Publications as first author:
 
 López-Cobá, Carlos, L. Lin, J. Neumann, and M. A. Bershady. 2024a.
 [<span class="nocase">On the Role of Noncircular Motions in MaNGA
