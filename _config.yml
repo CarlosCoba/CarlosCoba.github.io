@@ -88,9 +88,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 header:
-  image: "/assets/images/horizontal.jpg"    
+  image: "/assets/images/horizontal.jpg"
 
 defaults:
+  - layout: single  
   # _posts
   - scope:
       path: ""
