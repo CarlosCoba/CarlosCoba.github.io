@@ -5,7 +5,9 @@
 layout: splash
 author_profile: true
 header:
-  image: "/assets/images/horizontal.jpg"
+  overlay_image: "/assets/images/horizontal.jpg"
+  caption: "Photo: Pagodas"
+excerpt: Holaaa  
 ---
 
 
