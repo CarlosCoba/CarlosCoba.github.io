@@ -91,13 +91,12 @@ header:
   image: "/assets/images/horizontal.jpg"
 
 defaults:
-  - layout: single  
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
