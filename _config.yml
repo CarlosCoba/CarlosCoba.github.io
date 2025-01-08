@@ -87,6 +87,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+header:
+  image: /assets/images/horizontal.jpg    
 
 defaults:
   # _posts
