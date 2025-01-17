@@ -6,9 +6,9 @@ layout: splash
 author_profile: true
 header:
   overlay_image: "/assets/images/h.JPG"
-  caption: "Photo: Pagodas"
+  caption: "Photo: Cherry blossom season"
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-excerpt: Hola
+excerpt: Hi
 ---
 
 
