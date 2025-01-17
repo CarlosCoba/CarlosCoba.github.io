@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carlos Lopez Coba"
+  name   : "Carlos Lopez Coba 👋"
   avatar : "/assets/images/me.jpg"
   bio    : "PhD in Astrophysics"
   location	: "Taipei, Taiwan"
