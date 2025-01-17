@@ -7,10 +7,11 @@ author_profile: true
 header:
   overlay_image: "/assets/images/horizontal.jpg"
   caption: "Photo: Pagodas"
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 excerpt: Holaaa  
 ---
 
 
-I am a **postdoc fellow** currently working at ASIAA in Taipei, Taiwan.
-My research interests are focused on the dynamical properties of galaxies and their relationship with the
+I am a postdoc fellow currently working at the Institute of Astronomy and Astrophysics of Academia Sinica (ASIAA) in Taipei, Taiwan.
+My research interests are focused on the dynamical properties of galaxies and how these relate with the
 star formation processes.
