@@ -8,7 +8,7 @@ Hi 👋
 
 My name is Carlos López Cobá and I am from Mexico. I got my Ph.D degree in Astrophysics back in 2021 at
 the Institute of Astronomy UNAM, under the thesis "Systematic study of outflows in the Local Universe".
-During my PhD I worked mostly with integral field spectroscopic data, namely [CALIFA](https://califa.caha.es/), [MaNGA-SDSS}(https://www.sdss4.org/surveys/manga/), [MUSE/VLT](https://www.eso.org/sci/facilities/develop/instruments/muse.html), to characterize the physical properties
+During my PhD I worked mostly with integral field spectroscopic data, namely [CALIFA](https://califa.caha.es/), [MaNGA-SDSS](https://www.sdss4.org/surveys/manga/), [MUSE/VLT](https://www.eso.org/sci/facilities/develop/instruments/muse.html), to characterize the physical properties
 of star-forming and AGN-driven outflows in nearby galaxies.
 After my PhD I moved to ASIAA Taiwan to conduct independent research, where I focused my investigations in understanding the processes that shape the dynamics of
 galaxies.
