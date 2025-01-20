@@ -8,7 +8,7 @@ header:
   overlay_image: "/assets/images/horizontal.jpg"
   caption: "Photo: Cherry blossom season"
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-excerpt: Hi
+excerpt: Hi! I am Carlos. Welcome to my personal page. I created this site to post my resume.
 ---
 
 
