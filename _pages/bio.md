@@ -4,7 +4,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-![cube](/assets/images/me_thai.png)
+![me](/assets/images/me_thai.jng)
 
 Hi 👋
 
