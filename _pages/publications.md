@@ -2,6 +2,8 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
+urlcolor: blue
+linkcolor: red
 ---
 
 Publications as first author:
