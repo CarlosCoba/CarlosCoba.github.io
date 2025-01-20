@@ -15,5 +15,5 @@ of star-forming and AGN-driven outflows in nearby galaxies.
 After my PhD, I moved to ASIAA Taiwan to conduct independent research, where I focused my investigations in understanding the physical processes that shape the dynamics of
 galaxies. My research was driven by these questions:  *Why can we not fully reproduce the velocity field of basically any galaxy ?, Is it because of the lack of methods or our misunderstanding of the gas-flow processes in galaxies?*
 
-I plenty of experience working with 3D spectroscopic datasets. From IFS data tracing different phases of the warm interstellar medium, to colder gas phases like CO observed with ALMA.
+I have plenty of experience working with 3D spectroscopic datasets. From IFS data tracing different phases of the warm interstellar medium, to colder gas phases like CO observed with ALMA.
 The great advantage with working with kinematics, is that the spectral axis can be always converted to a velocity space!.
