@@ -4,6 +4,8 @@ permalink: /bio/
 author_profile: true
 ---
 
+![cube](/assets/me_thai.png)
+
 Hi 👋
 
 My name is Carlos López Cobá and I am from Mexico, specifically from the Mayan Peninsula where is located one of the seven wonders of the world, [Chichén Itzá](https://en.wikipedia.org/wiki/Chichen_Itza). I got my Ph.D degree in Astrophysics back in 2021 at
