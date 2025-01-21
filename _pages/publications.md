@@ -23,17 +23,15 @@ properties](https://doi.org/10.3847/1538-4357/ad7b12). *The
 Astrophysical Journal*. 975(2):182</span>
 
 <span class="csl-left-margin">3.
-</span><span class="csl-right-inline">Villar Martín M, López Cobá C,
+</span><span class="csl-right-inline">Villar Martín M, **López Cobá** C,
 Cazzoli S, Pérez Montero E, Cabrera Lavers A. 2024. [AGN feedback can
 produce metal enrichment on galaxy
 scales](https://doi.org/10.1051/0004-6361/202449621). *Astronomy &amp;
 Astrophysics*. 690:A397</span>
 
 <span class="csl-left-margin">4.
-</span><span class="csl-right-inline">**López-Cobá** C, Lin L, Sánchez SF.
-2024. [XookSuut: A BAYESIAN TOOL FOR MODELING CIRCULAR AND NON–CIRCULAR
-FLOWS ON 2D VELOCITY
-MAPS](https://doi.org/10.22201/ia.01851101p.2024.60.01.03). *Revista
+</span><span class="csl-right-inline">**López-Cobá** C, Lin L, Sánchez SF. 2024. [XookSuut: A BAYESIAN TOOL FOR MODELING CIRCULAR AND NON–CIRCULAR
+FLOWS ON 2D VELOCITY MAPS](https://doi.org/10.22201/ia.01851101p.2024.60.01.03). *Revista
 Mexicana de Astronomía y Astrofísica*. 60(1):19–39</span>
 
 <span class="csl-left-margin">5.
@@ -67,7 +65,7 @@ Journal*. 962(1):65</span>
 
 <span class="csl-left-margin">9.
 </span><span class="csl-right-inline">Jian H-Y, Lin L, Hsieh B-C, Umetsu
-K, Lopez-Coba C, et al. 2023. [Radial and local density dependence of
+K, **Lopez-Coba** C, et al. 2023. [Radial and local density dependence of
 star formation properties in galaxy clusters from the hyper suprime-cam
 survey](https://doi.org/10.3847/1538-4357/acfc22). *The Astrophysical
 Journal*. 957(2):85</span>
@@ -102,7 +100,7 @@ MUSE](https://doi.org/10.3847/1538-4357/ac937b). *The Astrophysical
 Journal*. 939(1):40</span>
 
 <span class="csl-left-margin">14.
-</span><span class="csl-right-inline">Su Y-C, Lin L, Pan H-A, Cobá CL,
+</span><span class="csl-right-inline">Su Y-C, Lin L, Pan H-A, **Cobá CL**,
 Hsieh B-C, et al. 2022. [The ALMaQUEST survey. VIII. What causes the
 discrepancy in the velocity between the CO and hα rotation curves in
 galaxies?](https://doi.org/10.3847/1538-4357/ac77fd) *The Astrophysical
