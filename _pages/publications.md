@@ -103,8 +103,7 @@ galaxies](https://doi.org/10.3847/1538-4357/ad18b9). *The Astrophysical
 Journal*. 963(2):115</span>
 
 <span class="csl-left-margin">7.
-</span><span class="csl-right-inline">López-Cobá C, Lin L, Sánchez SF.
-2024. [Unveiling a hidden bar-like structure in NGC 1087: Kinematic and
+</span><span class="csl-right-inline">López-Cobá C, Lin L, Sánchez SF. 2024. [Unveiling a hidden bar-like structure in NGC 1087: Kinematic and
 photometric evidence using MUSE/VLT, ALMA, and
 JWST](https://doi.org/10.3847/1538-4357/ad152a). *The Astrophysical
 Journal*. 962(1):65</span>
