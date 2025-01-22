@@ -26,7 +26,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+# remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin    : "default"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
