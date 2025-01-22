@@ -23,6 +23,7 @@ twitter_username: username
 github_username: CarlosCoba
 minimal_mistakes_skin: dirt
 search: true
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
