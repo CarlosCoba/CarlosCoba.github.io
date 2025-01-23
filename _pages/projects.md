@@ -12,5 +12,5 @@ noncircular motions present along the line-of-sight velocity.
 XS3D implements corrections due to the finite resolution of the observations, namely the point spread function (PSF) and the line-spread function (LSF).
 This is achieved by constructing a 3D kernel that will be convolved with a 3D model of the observation.
 
-**3D fitting of a spectral line cube: observation**
+**3D fitting of a spectral line cube observation**
 ![cube](/assets/images/psf.png)
