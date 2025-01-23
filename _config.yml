@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carlos Lopez Coba 👋"
+  name   : "Carlos López-Cobá 👋"
   avatar : "/assets/images/me.jpg"
   bio    : "PhD in Astrophysics"
   location	: "Taipei, Taiwan"
@@ -76,7 +76,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cobacharly"
 
 footer:
   links:
@@ -88,7 +88,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cobacharly"
 
 
 defaults:
