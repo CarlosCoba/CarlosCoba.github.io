@@ -4,6 +4,7 @@ title: "Publications"
 author_profile: true
 urlcolor: blue
 linkcolor: red
+classes: wide
 ---
 
 Publications:
